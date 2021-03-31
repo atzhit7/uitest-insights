@@ -1,0 +1,21 @@
+{
+  "name": "mypw",
+  "version": "0.0.0",
+  "description": "This is ui test project for arcgis",
+  "main": "test.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "automate",
+    "uitest"
+  ],
+  "author": "atzhit7",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.10.0",
+    "websocket": "^1.0.33"
+  }
+}
